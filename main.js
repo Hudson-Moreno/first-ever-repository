@@ -8,3 +8,5 @@ function cry(number){
 };
 
 cry(number);
+
+console.log(number)
